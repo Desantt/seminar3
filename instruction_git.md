@@ -149,3 +149,4 @@
     git log --oneline --graph
     git log --all --oneline --graph
     
+## Удаленные репозитории
