@@ -142,10 +142,10 @@
 
 Для того что бы вывести все списки коммитов веток с их рисунком по левой стороне, необходимо ввести команду 
 
-    get log --graph
+    git log --graph
 
     так же можно сочетать команды 
-    get log --all --graph
-    get log --oneline --graph
-    get log --all --oneline --graph
+    git log --all --graph
+    git log --oneline --graph
+    git log --all --oneline --graph
     
